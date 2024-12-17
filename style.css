@@ -989,6 +989,7 @@ body{
 .why-choose .choose-left .list li {
 	color: #868686;
 	margin-bottom: 12px;
+	margin-top: 12px;
 }
 .why-choose .choose-left .list li:last-child{
 	margin-bottom:0px;
