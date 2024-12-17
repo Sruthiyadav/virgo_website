@@ -329,7 +329,7 @@ body{
 }
 .header .nav li a {
 	color: #2C2D3F;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 500;
 	text-transform: capitalize;
 	padding: 25px 12px;
@@ -596,7 +596,8 @@ body{
 	background-repeat:no-repeat;
 }
 .slider .single-slider .text{
-	margin-top:120px;
+	margin-top:90px;
+	margin-right: 100px;
 }
 .slider.index2 .single-slider .text{
 	margin-top:150px;
@@ -1011,7 +1012,7 @@ body{
 .why-choose .choose-right{
 	height:100%;
 	width:100%;
-	background-image:url('img/video-bg.jpg');
+	background-image:url('img/aboutus.jpg');
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -1468,7 +1469,7 @@ body{
 	border-radius: 3px;
 	margin: 0 0 0 -52px;
 	margin-top: 49px;
-	box-sizing: ;
+	box-sizing: none ;
 }
 .testimonials .owl-dots .owl-dot {
 	display: inline-block;
@@ -3983,7 +3984,7 @@ body{
 	opacity:0.1;
 }
 .footer .single-footer{
-	
+	margin-left: 100px;
 }
 .footer .single-footer .social{
 	margin-top:25px;
